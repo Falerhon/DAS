@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DreamAbilitySystem-0015.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Perforce\atrembl86_FalerhonLaptop_2080\20243_8INF960_DAS_AM\DAS_AM\Intermediate\Build\Win64\x64\DAS_AMEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\Perforce\atrembl86_FalerhonLaptop_2080\20243_8INF960_DAS_AM\DAS_AM\Plugins\DreamAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamAbilitySystem\Module.DreamAbilitySystem.cpp.obj"
+"D:\Perforce\atrembl86_FalerhonLaptop_2080\20243_8INF960_DAS_AM\DAS_AM\Plugins\DreamAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamAbilitySystem\DASAbilityController.cpp.obj"
+"D:\Perforce\atrembl86_FalerhonLaptop_2080\20243_8INF960_DAS_AM\DAS_AM\Plugins\DreamAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamAbilitySystem\Default.rc2.res"
+/OUT:"D:\Perforce\atrembl86_FalerhonLaptop_2080\20243_8INF960_DAS_AM\DAS_AM\Plugins\DreamAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamAbilitySystem\UnrealEditor-DreamAbilitySystem-0015.lib"

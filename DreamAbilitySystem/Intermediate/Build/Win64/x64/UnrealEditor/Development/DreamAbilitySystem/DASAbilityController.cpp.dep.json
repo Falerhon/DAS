@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\source\\dreamabilitysystem\\private\\abilities\\dasabilitycontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\intermediate\\build\\win64\\x64\\das_ameditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamabilitysystem\\definitions.dreamabilitysystem.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\source\\dreamabilitysystem\\public\\abilities\\dasabilitycontroller.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\source\\dreamabilitysystem\\public\\abilities\\dasability.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\source\\dreamabilitysystem\\public\\dasreplicatedobject.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamabilitysystem\\uht\\dasreplicatedobject.generated.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\unreal\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamabilitysystem\\uht\\dasability.generated.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\source\\dreamabilitysystem\\public\\attributes\\dasattributescontainercomponent.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\source\\dreamabilitysystem\\public\\attributes\\dasattribute.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamabilitysystem\\uht\\dasattribute.generated.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\source\\dreamabilitysystem\\public\\attributes\\dasattributeset.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamabilitysystem\\uht\\dasattributeset.generated.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamabilitysystem\\uht\\dasattributescontainercomponent.generated.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\dreamabilitysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamabilitysystem\\uht\\dasabilitycontroller.generated.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagsmanager.h",
+            "d:\\unreal\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagsmanager.generated.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\actorchannel.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\engine\\public\\net\\datareplication.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\core\\public\\containers\\staticbitarray.h",
+            "d:\\unreal\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\actorchannel.generated.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\net\\core\\public\\net\\core\\propertyconditions\\propertyconditions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

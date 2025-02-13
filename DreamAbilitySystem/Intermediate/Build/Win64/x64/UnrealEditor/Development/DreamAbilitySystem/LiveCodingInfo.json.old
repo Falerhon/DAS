@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DreamAbilitySystem.cpp.obj": [
+			"DASAbility.gen.cpp.obj",
+			"DASAbilityController.gen.cpp.obj",
+			"DASActor.gen.cpp.obj",
+			"DASAttribute.gen.cpp.obj",
+			"DASAttributesContainerComponent.gen.cpp.obj",
+			"DASAttributeSet.gen.cpp.obj",
+			"DASReplicatedObject.gen.cpp.obj",
+			"DreamAbilitySystem.init.gen.cpp.obj",
+			"DASAbility.cpp.obj",
+			"DASAttributesContainerComponent.cpp.obj",
+			"DASAttributeSet.cpp.obj",
+			"DASActor.cpp.obj",
+			"DASReplicatedObject.cpp.obj",
+			"DreamAbilitySystem.cpp.obj",
+			"DASAbilityController.cpp.obj"
+		]
+	}
+}
